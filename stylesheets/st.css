@@ -4990,7 +4990,7 @@ body canvas {
   background: linear-gradient(0deg, #101242 22%, rgba(16, 18, 66, 0) 66%);
 }
 .introduction_area .area2 > div:nth-child(1) {
-  width: 35%;
+  width: 60%;
 }
 .introduction_area .area2 > div:nth-child(1) img {
   width: 100%;
@@ -5037,9 +5037,9 @@ body canvas {
   .introduction_area .area2 {
     flex-wrap: wrap;
   }
-  .introduction_area .area2 > div:nth-child(1) {
+  /* .introduction_area .area2 > div:nth-child(1) {
     display: none;
-  }
+  } */
   .introduction_area .area2 > div:nth-child(2) {
     width: 100%;
     padding: 48px 35px;
